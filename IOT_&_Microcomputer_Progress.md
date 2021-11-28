@@ -1,4 +1,4 @@
-##Raspbian pi use in Industry AS:- 
+## Raspbian pi use in Industry AS:- 
 
 - Media centers
 - File Servers 
@@ -6,5 +6,5 @@
 - Routers
 - Network level ad_blockers etc....
 
-##Main components consist a Raspbian pi 4 system
-#
+## Main components consist a Raspbian pi 4 system
+
